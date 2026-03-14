@@ -1,10 +1,16 @@
 # Privacy Policy
 
-This application is used only for personal automation via n8n.
+This application is used to integrate automation workflows using the n8n platform.
 
-Data accessed through Google APIs is used solely to perform user-requested automation tasks.
-No personal data is stored, shared, or sold to third parties.
+The application may use OAuth authentication to connect user accounts with third-party services such as LinkedIn or Google, only after the user provides explicit authorization.
 
-All access is controlled by the user through Google OAuth permissions.
+The application accesses only the permissions required to perform automation tasks such as posting content or retrieving basic profile information.
 
-Contact: rushishelar444@gmail.com
+We do not collect, store, sell, or share personal data with third parties. Any access tokens obtained through OAuth authentication are used only for authorized API communication and workflow automation.
+
+All data access is limited to the scope approved by the user during the authentication process.
+
+If you have any questions regarding this privacy policy, please contact:
+
+Email: [rushishelar444@gmail.com](mailto:rushishelar444@gmail.com)
+
